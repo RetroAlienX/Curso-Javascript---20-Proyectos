@@ -24,7 +24,7 @@ const producto4 = {
     precio: 800  
 }
 
-
+//! Forma Imperativa
 //! Agregar productos al final del arreglo metodo PUSH
 carrito.push(producto)
 carrito.push(producto2)

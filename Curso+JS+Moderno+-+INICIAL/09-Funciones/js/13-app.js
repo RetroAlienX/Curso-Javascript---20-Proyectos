@@ -52,5 +52,3 @@ reproductor.borrar(30);
 reproductor.crearPlaylist('Heavy Metal')
 reproductor.crearPlaylist('Rock and Roll')
 reproductor.reproducirPlaylist('Heavy Metal')
-
-//!A

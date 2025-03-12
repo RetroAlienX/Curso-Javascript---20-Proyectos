@@ -91,4 +91,6 @@ document.addEventListener("DOMContentLoaded", function () {
   }
 });
 
+//! Continuar aqui
+
 //! TODO: Codigo limpio se removieron comentarios y console.log innecesarios
